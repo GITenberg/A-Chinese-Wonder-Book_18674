@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '8185'
     url: http://www.gutenberg.org/2009/agents/8185
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18674#A-Chinese-Wonder-Book
 gutenberg_bookshelf:
 - Children's Myths, Fairy Tales, etc.
 - Folklore
